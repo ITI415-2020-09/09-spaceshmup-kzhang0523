@@ -358,10 +358,10 @@ MonoBehaviour:
   - {fileID: 1801717105832950, guid: cb4206b8e00300649994ecf8ffe838d5, type: 3}
   - {fileID: 1801717105832950, guid: cb4206b8e00300649994ecf8ffe838d5, type: 3}
   - {fileID: 1158547974957732, guid: a0a74b7d2e3ac2449b0e77185af83fed, type: 3}
-  - {fileID: 1158547974957732, guid: a0a74b7d2e3ac2449b0e77185af83fed, type: 3}
   - {fileID: 1700942416061258, guid: 3f6055558a488314cb38691d88c41fdf, type: 3}
   - {fileID: 1700942416061258, guid: 3f6055558a488314cb38691d88c41fdf, type: 3}
   - {fileID: 1539775467464788, guid: 06677ec088bca734db80dc6ecea1d7af, type: 3}
+  - {fileID: 749973950254814731, guid: 9a01edbc9bb096340816f51387c7b8bd, type: 3}
   - {fileID: 749973950254814731, guid: 9a01edbc9bb096340816f51387c7b8bd, type: 3}
   enemySpawnPerSecond: 0.3
   enemyDefaultPadding: 1.5
